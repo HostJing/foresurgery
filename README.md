@@ -3,6 +3,7 @@
 [![tests](https://github.com/your-github/foresurgery/actions/workflows/tests.yml/badge.svg)](https://github.com/your-github/foresurgery/actions/workflows/tests.yml)
 [![MIT licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
+[![DOI](https://zenodo.org/badge/1455518527.svg)](https://doi.org/10.5281/zenodo.24167722)
 
 Code and derived tables for the study *Forecast value concentrates day-ahead:
 counterfactual surgery on issued rolling forecasts from 70 industrial
